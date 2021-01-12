@@ -1,4 +1,5 @@
 class Console:
+
     def __init__(self, input_file):
         self._accumulator = 0
         self._loaded_input = None
