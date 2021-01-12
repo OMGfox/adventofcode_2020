@@ -1,5 +1,6 @@
 from copy import deepcopy
 
+
 class Console:
 
     def __init__(self, input_file):
